@@ -19,7 +19,8 @@ s[i] is a printable ascii character.
 
 Solution: Using in-place algorithm
 
-Explanation: An in-place algorithm is one that solves a problem by modifying the input data directly, using only a small, constant amount of extra memory (usually O(1) space). 
+Explanation: An in-place algorithm is one that solves a problem by modifying the input data directly, using only a small, 
+constant amount of extra memory (usually O(1) space). 
 It avoids creating copies of the input or using large additional data structures, making it memory-efficient. 
 Examples include reversing an array or swapping elements in place.
 

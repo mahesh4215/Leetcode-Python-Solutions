@@ -40,7 +40,7 @@ class Solution:
 Exaplanation: 
 ###  Approach: Sliding Window with Set
 
-We use a sliding window** approach to keep track of the current substring without duplicates.
+We use a sliding window approach to keep track of the current substring without duplicates.
 
 - A `left` pointer represents the start of the current window.
 - A `right` pointer expands the window one character at a time.
